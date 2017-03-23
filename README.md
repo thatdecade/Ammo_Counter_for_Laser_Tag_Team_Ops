@@ -1,8 +1,8 @@
-Ammo Counter for Laser Tag Team Ops
+# Ammo Counter for Laser Tag Team Ops
 
-This is an Arduino project to validate & decode Lazertag (LTTO Compatible) beacon tag and data signatures, then display health on a dual digit 7 segment display.
+This is an Arduino project to validate & decode Lazertag (LTTO Compatible) beacon tag and data signatures, then display health on a dual digit 7 segment common cathode display.
 
-Original Forum Post: https://groups.yahoo.com/neo/groups/Lasertag_Design/conversations/topics/380
+Original Forum Post on the technique: https://groups.yahoo.com/neo/groups/Lasertag_Design/conversations/topics/380
 
 **Usage:**
 
@@ -13,4 +13,4 @@ Setup unhosted game.
 
 Play game.
 - As you take tags, display will update with health remaining.
-- Turn gun off/on to reset the counter.
+- Turn tagger off/on to reset the counter.
